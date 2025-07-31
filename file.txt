@@ -3,3 +3,5 @@ iloveyou
 hey 
 
 hello git merging
+
+manual merging
