@@ -4,4 +4,4 @@ hey
 
 hello git merging
 
-local fixing errors
+local fixing error
