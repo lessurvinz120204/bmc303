@@ -1,8 +1,5 @@
 hello git merging
 
-<<<<<<< HEAD
-Your changes in 'features'
-=======
-Changes from 'main'
->>>>>>> main
+nfbduffds
 
+dbfdfas
