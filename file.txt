@@ -5,3 +5,5 @@ hey
 hello git merging
 
 manual merging
+
+fixing common merging error
