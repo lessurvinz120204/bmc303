@@ -1,7 +1,3 @@
-iloveyou
-
-hey 
-
 hello git merging
 
 local fixing error
